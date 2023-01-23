@@ -79,7 +79,7 @@ print('<early_loading> init_graphical')
 #'''
 frame = tk.Frame(window)
 
-frame.place(x=100,y=200)
+frame.place(x=100,y=250)
 
 
 username, password, logind_label = mainmenu.showMenu(frame,login)
